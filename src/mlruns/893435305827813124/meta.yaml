@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/893435305827813124
+creation_time: 1746466116378
+experiment_id: '893435305827813124'
+last_update_time: 1746466116378
+lifecycle_stage: active
+name: wine_prediction
